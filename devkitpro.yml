@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  DevKitPro:
+  Build3DS:
     runs-on: ubuntu-latest
     container:
       image: devkitpro/devkitarm:latest
